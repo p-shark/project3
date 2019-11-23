@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.w3-bar {
+	width: 100%;
+	overflow: hidden;
+	border-top: #dbdbdb 1px solid;
+	border-bottom: #dbdbdb 1px solid;
+}
+.w3-bar .w3-bar-item {
+	padding: 8px 7px;
+	float: left;
+	width: auto;
+	border: none;
+	display: block;
+	outline: 0
+}
